@@ -22,35 +22,35 @@ function change() {
 
 var dialogs = {
     value0: function() {
-        texts = "Buenas Malote...  (Tomas Sotto)";
+        texts = "Buenas Maria laura...  ";
         timer = 100;
     },
     value1: function() {
-        texts = "O MALISIMO, porque no?";
+        texts = "Como andas querida?";
         timer = 100;
     },
     value2: function() {
-        texts = "O corneta, Gordo sin manos, PENDEJO MOGOLICO,ADOPTADO, DROGADICTO , O CHICO SIN MAMA Y muchos apodos mas";
+        texts = "Me alegro mucho por tanta felicidad";
         timer = 150;
     },
     value3: function() {
-        texts = "Вueno No te traje aca para Agredirte, ni denigrarte mucho menos.";
+        texts = "Вueno No te traje aca para Pedirte, un vacio y dos fernet.";
         timer = 150;
     },
     value4: function() {
-        texts = "Pero bueno SI TE GORREAN ESO YA ES PROBLEMA TUYO.";
+        texts = " Espero tu Respuesta En mi Whatsapp.";
         timer = 100;
     },
     value5: function() {
-        texts = "solo te queria mandar un besito en el culin...";
+        texts = " Que tengas un hermoso Dia.";
         timer = 100;
     },
     value6: function() {
-        texts = "ANASHEIIIIIII";
+        texts = "BENDICIONES";
         timer = 400;
     },
     value7: function() {
-        texts = "JEJE";
+        texts = "Bay";
         timer = 600;
     }
 
